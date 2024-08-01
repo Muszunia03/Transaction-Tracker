@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\machm\\Documents\\Nauka\\Finance Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1D3C69-53BC-4FB4-9711-57CE8817640E}|Finance Tracker\\Finance Tracker.vcxproj|C:\\Users\\machm\\Documents\\Nauka\\Finance Tracker\\Finance Tracker\\Finance Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A1D3C69-53BC-4FB4-9711-57CE8817640E}|Finance Tracker\\Finance Tracker.vcxproj|solutionrelative:Finance Tracker\\Finance Tracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Finance Tracker.cpp",
+              "DocumentMoniker": "C:\\Users\\machm\\Documents\\Nauka\\Finance Tracker\\Finance Tracker\\Finance Tracker.cpp",
+              "RelativeDocumentMoniker": "Finance Tracker\\Finance Tracker.cpp",
+              "ToolTip": "C:\\Users\\machm\\Documents\\Nauka\\Finance Tracker\\Finance Tracker\\Finance Tracker.cpp",
+              "RelativeToolTip": "Finance Tracker\\Finance Tracker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T16:08:14.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
